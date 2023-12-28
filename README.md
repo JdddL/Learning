@@ -6,7 +6,7 @@
 
 ## 学习计划（后端）
 - 编程语言
-  - Golang
+  - [Golang](https://www.zhihu.com/question/431128958/answer/2433900271)
     - 语言基础
     - RPC框架：grpc
     - HTTP框架：gin
@@ -24,5 +24,9 @@
   - Redis
 - 消息队列
   - Kafka
+- 容器
+  - Docker
 - 分布式框架
   - Kubernetes
+- 负载均衡
+  - Nginx
