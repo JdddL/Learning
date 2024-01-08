@@ -14,16 +14,16 @@
     - 协程池框架：ant
   - Java
     - 待定
-- 网络
+- [网络](/learn/计算机网络.md)
 - 数据库
   - 关系型数据库
-    - MySQL
+    - [MySQL](/learn/mysql.md)
   - 非关系型数据库
     - Mongo
 - 缓存
   - Redis
 - 消息队列
-  - Kafka
+  - [Kafka](/learn/kafka.md)
 - 容器
   - Docker
 - 分布式框架
